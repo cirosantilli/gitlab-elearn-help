@@ -1,0 +1,5 @@
+name: GitLab Elearn
+permalink: /:title
+
+markdown: kramdown
+pygments: true
