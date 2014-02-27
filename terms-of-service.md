@@ -14,6 +14,7 @@ Please take into account the [team](/team)'s:
 
 - size
 - level of commitment
+- deployment experience
 - budget
 
 and be welcome to join us or donate if you want to help!
